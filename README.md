@@ -15,3 +15,10 @@ lorem + number
 ```
 
 #### EM is xx times 12
+
+#### get image from the file
+```
+../ from outside folder
+
+./ inside the folder
+```
