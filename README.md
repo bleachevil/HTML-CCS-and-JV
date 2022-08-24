@@ -1,7 +1,7 @@
 # HTML-CCS-and-JV
 ## cheat sheet
 
-### under VS code
+### HTML: VS code
 #### get template setup
 ```
 !
