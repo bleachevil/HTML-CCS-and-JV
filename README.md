@@ -28,5 +28,5 @@ lorem + number
 # for ID ue it for unique item
 ```
 
-#### order of selector, class and id
-first selector, second class and last id
+#### order of Universal, element, class and id
+first Universal, second element, third class and last id
