@@ -22,3 +22,8 @@ lorem + number
 
 ./ inside the folder
 ```
+#### class vs id css
+```
+. for class
+# for ID
+```
