@@ -24,6 +24,6 @@ lorem + number
 ```
 #### class vs id css
 ```
-. for class
-# for ID
+. for class use it multiple time
+# for ID ue it for unique item
 ```
