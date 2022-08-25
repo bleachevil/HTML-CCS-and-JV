@@ -27,3 +27,6 @@ lorem + number
 . for class use it multiple time
 # for ID ue it for unique item
 ```
+
+#### order of selector, class and id
+first selector, second class and last id
