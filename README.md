@@ -30,3 +30,6 @@ lorem + number
 
 #### order of Universal, element, class and id
 first Universal, second element, third class and last id
+
+#### position
+absolute box need to have relative section. need a container which is section
