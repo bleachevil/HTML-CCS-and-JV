@@ -57,3 +57,15 @@ button:focus {
 
 transition duration 1st when touch the box will change
 ```
+
+```
+
+.hide {
+  display: none;
+}
+
+.myDIV:hover + .hide {
+  display: block;
+  color: red;
+}
+```
