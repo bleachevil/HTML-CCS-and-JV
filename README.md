@@ -69,3 +69,5 @@ transition duration 1st when touch the box will change
   color: red;
 }
 ```
+
+#### EMMT know of quickly write the code
