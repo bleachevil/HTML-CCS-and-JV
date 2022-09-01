@@ -71,3 +71,8 @@ transition duration 1st when touch the box will change
 ```
 
 #### EMMT know of quickly write the code
+
+#### parent child and sibling
+parent
+  child
+  sibling
