@@ -36,11 +36,13 @@ absolute box need to have relative section. need a container which is section
 
 #### Pseudo Class
 ```
+## touch
 button:hover {
   background-color: #772014;
   color: #fff;
 }
 
+## click
 /* The user is actively pressing down on the element */
 button:active {
   font-size: 180%;
@@ -52,4 +54,6 @@ button:focus {
   outline: none;
   border-color: #8ac4ff;
 }
+
+transition duration 1st when touch the box will change
 ```
