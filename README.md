@@ -76,3 +76,13 @@ transition duration 1st when touch the box will change
 >parent<br/>
  >> child
  >> sibling
+
+#### create varable 
+```
+:root {
+  /* declare a variable with `--` syntax */
+  --dark: #13293d;
+  --light: #fff;
+  --navlink-color: #b9c6ae;
+}
+```
