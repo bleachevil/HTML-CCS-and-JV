@@ -85,4 +85,15 @@ transition duration 1st when touch the box will change
   --light: #fff;
   --navlink-color: #b9c6ae;
 }
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1%;
+  /* use CSS var() function to reference a variable created above */
+  background-color: var(--dark);
+  color: var(--light);
+}
+
 ```
