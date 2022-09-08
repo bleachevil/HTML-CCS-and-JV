@@ -108,4 +108,4 @@ to flip to add ! at front of result !expression1
 
 push = extend <br />
 pop = pop <br />
-splice = (4,1,"item") 4 indicate item on the list, 1 replace or 0 add infont.
+splice = (4,1,"item") 4 indicate item on the list, 1 replace the next one, 2 replace the next 2 or 0 add infont, no "item" 1 is remove and 2 is remove next 2
