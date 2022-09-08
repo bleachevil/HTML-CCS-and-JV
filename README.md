@@ -110,3 +110,8 @@ push = extend <br />
 pop = pop <br />
 splice = (4,1,"item") 4 indicate item on the list, 1 replace the next one, 2 replace the next 2 or 0 add infont, no "item" 1 is remove and 2 is remove next 2 <br />
 slice return new variable, and get the start and end. slice (1,2)
+
+#### var, const, let
+const = cannot change the variable
+let = can change the variable in a function but not outside function
+var = can change anyplace
