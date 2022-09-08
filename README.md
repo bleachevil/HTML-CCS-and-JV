@@ -102,3 +102,10 @@ header {
 
 double non operator !! cast a string into a boolan. true value = true, no value into a fale boolan  include null, 0, "", undefined, false<br />
 to flip to add ! at front of result !expression1 
+
+
+#### Array
+
+push = extend
+pop = pop
+splice = remove
