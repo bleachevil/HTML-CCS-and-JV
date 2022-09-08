@@ -106,6 +106,6 @@ to flip to add ! at front of result !expression1
 
 #### Array
 
-push = extend
-pop = pop
-splice = remove
+push = extend <br />
+pop = pop <br />
+splice = (4,1,"item") 4 indicate item on the list, 1 replace or 0 add infont.
