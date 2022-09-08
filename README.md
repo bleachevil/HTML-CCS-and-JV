@@ -97,3 +97,8 @@ header {
 }
 
 ```
+
+#### ! and !!
+
+double non operator !! cast a string into a boolan. true value = true, no value into a fale boolan<b/>
+to flip to add ! at front of result !expression1 
